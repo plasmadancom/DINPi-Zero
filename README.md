@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/DINPi-Zero/main/img/dinpi-zero-v1.0-dimensions.svg">
-        <img alt="Mechanical Drawing" src="/img/dinpi-zero-v1.0-dimensions.svg" width="600">
+        <img alt="Mechanical Drawing" src="/img/dinpi-zero-v1.0-dimensions.svg" width="400">
     </a>
 </p>
 
